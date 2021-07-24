@@ -1,5 +1,5 @@
 {
-    "name": "blessing/flarum-oauth-client",
+    "name": "Simonchan/flarum-oauth-client",
     "description": "OAuth2 client of Blessing Skin for Flarum.",
     "type": "flarum-extension",
     "license": "MIT",
