@@ -1,6 +1,6 @@
 {
     "name": "simonchan/flarum-oauth-client",
-    "description": "OAuth2 client of Blessing Skin for Flarum.",
+    "description": "OAuth2 client of Blessing Skin for Flarum New 1.0.4.",
     "type": "flarum-extension",
     "license": "MIT",
     "authors": [
@@ -21,7 +21,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Blessing Skin Login",
+            "title": "Blessing Skin Login v1",
             "icon": {
                 "name": "fas fa-tshirt",
                 "backgroundColor": "#6f42c1",
